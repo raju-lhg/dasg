@@ -1,0 +1,11 @@
+/* Basic styling for the plugin. Adjust as needed. */
+.cap-container {
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.cap-listing-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
